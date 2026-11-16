@@ -1,0 +1,22 @@
+[
+  {
+    "id": "VX-1C84CE4E",
+    "created_at": "2026-11-16T16:15:50.049Z",
+    "updated_at": "2026-11-16T16:16:18.302Z",
+    "customer_nick": "VexzYe",
+    "server": "DonutSMP",
+    "product_id": "donut",
+    "product_name": "Waluta w grze",
+    "quantity": 10,
+    "unit_price": 1,
+    "total_pln": 10,
+    "payment_method": "LTC",
+    "payment_status": "OPŁACONE",
+    "fulfillment_status": "GOTOWE_DO_REALIZACJI",
+    "txid": null,
+    "ltc_amount": "0.05655149",
+    "ltc_rate": 176.83,
+    "seller_note": null,
+    "fulfilled_at": null
+  }
+]
